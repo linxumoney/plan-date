@@ -8,11 +8,11 @@
 
 | 北京五道营 | 上海新天地雨天 | 上海武康路 |
 | --- | --- | --- |
-| ![初次见面示例](examples/posters/first-meeting.png) | ![雨天示例](examples/posters/rainy-day.png) | ![半日交流示例](examples/posters/half-day.png) |
+| ![初次见面示例](examples/posters/first-meeting.png) | ![雨天约会示例](examples/posters/rainy-day.png) | ![半日约会示例](examples/posters/half-day.png) |
 
 ## 能做什么
 
-- 根据双方出发区域、时间和预算设计“轻松试探 / 半日交流 / 雨天室内”三套方案。
+- 根据双方出发区域、时间和预算设计“初次见面 / 半日约会 / 雨天约会”三套方案。
 - 区分核心安排与双方同意后再延长的散步、晚餐。
 - 将地点事实、预算估计和待核验项分开。
 - 用固定模板输出带“林序聊AI”品牌标签的示意海报。
