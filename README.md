@@ -28,7 +28,7 @@ python scripts/render_poster.py examples/rainy-day.json
 python scripts/render_poster.py examples/half-day.json
 ```
 
-模板目前使用 Windows 的微软雅黑字体。其他系统可在脚本顶部调整 `FONT` 和 `FONT_BOLD`，选用支持中文的字体。海报数据在 `examples/*.json`，插画组图在 `assets/`；修改 JSON 后重跑即可。地点依据与预算边界见[核验记录](examples/sources.md)，制作步骤见[海报生成流程](references/poster-workflow.md)，三张图的场景描述见[插画提示词](references/illustration-prompts.md)。
+模板目前使用 Windows 的宋体、楷体和微软雅黑。其他系统可在脚本顶部修改字体路径，选用支持中文与人民币符号的字体。海报数据在 `examples/*.json`，无字水彩画底在 `assets/`；修改 JSON 后重跑即可。地点依据与预算边界见[核验记录](examples/sources.md)，制作步骤见[海报生成流程](references/poster-workflow.md)，三张图的详细画底提示词见[插画提示词](references/illustration-prompts.md)。
 
 ## 来源与边界
 
